@@ -5,4 +5,4 @@ I am Fatema Siddika. Currently working as a lecturer in the Department of Comput
 - 🌱 I’m currently learning Edge Computing
 - 💞️ I’m looking to collaborate on Edge Computing Research
 
-I'm best reached via email. I'm always open to interesting conversations and collaboration.
+I'm best reached via [email](https://jnu.ac.bd/profile/portal/web/596). I'm always open to interesting conversations and collaboration.
