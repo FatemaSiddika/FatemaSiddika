@@ -1,8 +1,7 @@
 ## Hi, I'm Fatema 👋
-I am Fatema Siddika. Currently doing PhD at Iowa state University. My research interest falls mainly into Federated Learning, Distributed Sytems, Optimization. 
-- 🎓 Graduated from Jagannath University
-- 👀 I’m Working on Federated Learning 
-- 🌱 I’m currently learning Federated Learning
-- 💞️ I’m looking to collaborate on Distributed Computing Research
+This is Fatema Siddika. Currently Studying Graduate Program in the Department of Computer Science at Iowa State University. My research interest is Computational optimization on Federated Machine Learning.
+
+    🎓 PhD Student, Dept of Computer Science, Iowa State Univeristy
+    👀 I’m Working on Computational optimization on Federated Machine Learning.
 
 I'm best reached via [email](https://jnu.ac.bd/profile/portal/web/596). I'm always open to interesting conversations and collaboration.
