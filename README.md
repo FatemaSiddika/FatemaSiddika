@@ -1,8 +1,8 @@
 ## Hi, I'm Fatema 👋
-I am Fatema Siddika. Currently working as a lecturer in the Department of Computer Science and Engineering at Jagannath University. My research interest falls mainly into Machine Learning, Internet of Things, Sensor and Ad Hoc Networks, Distributed Systems, Edge Computing.
+I am Fatema Siddika. Currently doing PhD at Iowa state University. My research interest falls mainly into Federated Learning, Distributed Sytems, Optimization. 
 - 🎓 Graduated from Jagannath University
-- 👀 I’m Working on Internet of Thing and Machine Learning
-- 🌱 I’m currently learning Edge Computing
-- 💞️ I’m looking to collaborate on Edge Computing Research
+- 👀 I’m Working on Federated Learning 
+- 🌱 I’m currently learning Federated Learning
+- 💞️ I’m looking to collaborate on Distributed Computing Research
 
 I'm best reached via [email](https://jnu.ac.bd/profile/portal/web/596). I'm always open to interesting conversations and collaboration.
